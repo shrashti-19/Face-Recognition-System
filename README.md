@@ -1,5 +1,3 @@
-# Face-Recognition-System
-
 # Face Recognition Model
 
 This is a machine learning project that uses a Convolutional Neural Network (CNN) to recognize faces from images using the LFW (Labeled Faces in the Wild) dataset.
